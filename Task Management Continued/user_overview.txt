@@ -1,0 +1,57 @@
+Total users =	5
+Total Tasks =	2
+
+Tasks for admin:
+
+Tasks assigned =	1
+Tasks completed =	1
+Tasks incomplete =	0
+Tasks overdue =	0
+Percentage of total tasks owned by user :	50.0%
+Percentage of user tasks coompleted by user :	100.0%
+Percentage of user tasks incomplete by user :	0.0%
+Percentage of user tasks overdue by user :	0.0%
+
+Tasks for Fred:
+
+Tasks assigned =	0
+Tasks completed =	0
+Tasks incomplete =	0
+Tasks overdue =	0
+Percentage of total tasks owned by user :	0%
+Percentage of user tasks coompleted by user :	0%
+Percentage of user tasks incomplete by user :	0%
+Percentage of user tasks overdue by user :	0%
+
+Tasks for Toff:
+
+Tasks assigned =	1
+Tasks completed =	0
+Tasks incomplete =	1
+Tasks overdue =	1
+Percentage of total tasks owned by user :	50.0%
+Percentage of user tasks coompleted by user :	0.0%
+Percentage of user tasks incomplete by user :	100.0%
+Percentage of user tasks overdue by user :	100.0%
+
+Tasks for Jeff:
+
+Tasks assigned =	0
+Tasks completed =	0
+Tasks incomplete =	0
+Tasks overdue =	0
+Percentage of total tasks owned by user :	0%
+Percentage of user tasks coompleted by user :	0%
+Percentage of user tasks incomplete by user :	0%
+Percentage of user tasks overdue by user :	0%
+
+Tasks for Bob:
+
+Tasks assigned =	0
+Tasks completed =	0
+Tasks incomplete =	0
+Tasks overdue =	0
+Percentage of total tasks owned by user :	0%
+Percentage of user tasks coompleted by user :	0%
+Percentage of user tasks incomplete by user :	0%
+Percentage of user tasks overdue by user :	0%

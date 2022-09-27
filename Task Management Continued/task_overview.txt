@@ -1,0 +1,9 @@
+
+Total tasks =			2
+Completed tasks =		1
+Incomplete tasks =		1
+Overdue tasks = 		1
+Overdue incomplete tasks = 	1
+Overdue tasks percentage = 	50.0
+Incomplete tasks percentage = 	50.0
+
