@@ -1,5 +1,7 @@
-# **Capstone Project 1**
+# **Finance calculator**
 ### **Creating a finance calculator**
+
+My First real program written in python. 
 
 ### **Instructions**
 
