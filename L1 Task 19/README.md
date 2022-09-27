@@ -1,4 +1,4 @@
-# **Capstone Project 2**
+# **Task management program**
 ### **Creating a task management program**
 
 ### **Instructions**
