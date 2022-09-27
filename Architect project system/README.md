@@ -1,4 +1,4 @@
-# **Java Capstone Project 1**
+# **Architect Project managing System**
 ### **Create a project handeling and management system**
 
 ### **Instructions**
