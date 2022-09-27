@@ -1,4 +1,4 @@
-# **Capstone Project 2**
+# **Inventory Management System**
 ### **Store inventory managerment program**
 
 ### **Instructions**
